@@ -29,12 +29,12 @@ window.ARCHIVE = {
       sample: false
     },
     { id: "sample-02", title: "「첫 번째 아방가르드」 ", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA", images: ["assets/첫번째아방가르드메인.jpg"], description: "작품의 세부 설명이 들어갈 자리입니다.\n\n추가 사진이 있다면 images에 사진 경로를 차례로 넣어주세요.", sample: false },
-    { id: "sample-03", title: "「아케이드 게임기」 ", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA", images: ["assets/아케이드게임기메인.jpg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
+    { id: "sample-03", title: "「대전격투 게임기」 ", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA", images: ["assets/아케이드게임기메인.jpg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
     { id: "sample-04", title: "「현룡문 옥좌」 ", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA", images: ["assets/현룡문의자메인.jpg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
-    { id: "sample-05", title: "카페 호감도 세트", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA, PETG", images: ["assets/sample-05.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
+    { id: "sample-05", title: "샬레 카페 상호작용 세트", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA, PETG", images: ["assets/sample-05.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
     { id: "sample-06", title: "「반짝이는 꽃다발」 선물", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA", images: ["assets/sample-06.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
     { id: "sample-07", title: "「게임걸 컬러 복각판」 선물", year: "2026", category: "3D프린팅 넨도로이드 스케일 피규어", medium: "PLA", images: ["assets/sample-06.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
-    { id: "sample-08", title: "카페 호감도 세트", year: "2026", category: "3D프린팅 초코푸니 스케일 피규어", medium: "PLA, PETG", images: ["assets/sample-04.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
+    { id: "sample-08", title: "샬레 카페 상호작용 세트", year: "2026", category: "3D프린팅 초코푸니 스케일 피규어", medium: "PLA, PETG", images: ["assets/sample-04.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
     { id: "sample-09", title: "「반짝이는 꽃다발」 선물", year: "2026", category: "3D프린팅 초코푸니 스케일 피규어", medium: "PLA", images: ["assets/sample-05.svg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false },
     { id: "sample-10", title: "「게임걸 컬러 복각판」 선물", year: "2026", category: "3D프린팅 초코푸니 스케일 피규어", medium: "PLA", images: ["assets/초코푸니게임걸복각메인.jpg"], description: "작품의 세부 설명이 들어갈 자리입니다.", sample: false }
   ]
