@@ -93,7 +93,7 @@
           ${gallery(work)}
           <div class="post-body"><div class="post-introduction">${paragraphs(work.description)}</div>
             ${(work.sections || []).map(section => `<section class="post-section">${section.title ? `<h2>${esc(section.title)}</h2>` : ''}${paragraphs(section.text)}${section.image ? `<figure><img src="${esc(section.image)}" alt="${esc(section.alt || section.title || work.title)}" loading="lazy">${section.caption ? `<figcaption>${esc(section.caption)}</figcaption>` : ''}</figure>` : ''}</section>`).join('')}
-            <dl class="facts"><div><dt>제작 연도</dt><dd>${esc(work.year)}</dd></div><div><dt>분류</dt><dd>${esc(work.category)}</dd></div>${work.medium ? `<div><dt>재료 · 규격</dt><dd>${esc(work.medium)}</dd></div>` : ''}</dl>
+            <dl class="facts"><div><dt>제작 연도</dt><dd>${esc(work.year)}</dd></div><div><dt>분류</dt><dd>${esc(work.category)}</dd></div>${work.medium ? `<div><dt>재료</dt><dd>${esc(work.medium)}</dd></div>` : ''}</dl>
             ${work.sample ? '<p class="sample-note">현재 사진과 글은 구성 확인용 샘플입니다.</p>' : ''}
             ${archive.works.length > 1 ? `<a class="next" href="${href(next)}">다음 작품 <span aria-hidden="true">↗</span><br>${esc(next.title)}</a>` : ''}
           </div>
