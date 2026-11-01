@@ -1,0 +1,7 @@
+{
+  "name": "cclab-catalog",
+  "private": true,
+  "scripts": {
+    "start": "node tools/preview.mjs"
+  }
+}
